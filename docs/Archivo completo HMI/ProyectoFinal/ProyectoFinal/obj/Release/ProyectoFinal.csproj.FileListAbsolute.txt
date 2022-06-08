@@ -1,0 +1,11 @@
+C:\Users\pm_pc\source\repos\ProyectoFinal\ProyectoFinal\bin\Release\ProyectoFinal.exe.config
+C:\Users\pm_pc\source\repos\ProyectoFinal\ProyectoFinal\bin\Release\ProyectoFinal.exe
+C:\Users\pm_pc\source\repos\ProyectoFinal\ProyectoFinal\bin\Release\ProyectoFinal.pdb
+C:\Users\pm_pc\source\repos\ProyectoFinal\ProyectoFinal\obj\Release\ProyectoFinal.csproj.AssemblyReference.cache
+C:\Users\pm_pc\source\repos\ProyectoFinal\ProyectoFinal\obj\Release\ProyectoFinal.csproj.SuggestedBindingRedirects.cache
+C:\Users\pm_pc\source\repos\ProyectoFinal\ProyectoFinal\obj\Release\ProyectoFinal.Form1.resources
+C:\Users\pm_pc\source\repos\ProyectoFinal\ProyectoFinal\obj\Release\ProyectoFinal.Properties.Resources.resources
+C:\Users\pm_pc\source\repos\ProyectoFinal\ProyectoFinal\obj\Release\ProyectoFinal.csproj.GenerateResource.cache
+C:\Users\pm_pc\source\repos\ProyectoFinal\ProyectoFinal\obj\Release\ProyectoFinal.csproj.CoreCompileInputs.cache
+C:\Users\pm_pc\source\repos\ProyectoFinal\ProyectoFinal\obj\Release\ProyectoFinal.exe
+C:\Users\pm_pc\source\repos\ProyectoFinal\ProyectoFinal\obj\Release\ProyectoFinal.pdb
